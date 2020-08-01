@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'crimson-text-regular';
+  src: url(../fonts/CrimsonText-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'crimson-text-italic';
+  src: url(../fonts/CrimsonText-Italic.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'crimson-text-semibold';
+  src: url(../fonts/CrimsonText-SemiBold.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'crimson-text-bold';
+  src: url(../fonts/CrimsonText-Bold.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
